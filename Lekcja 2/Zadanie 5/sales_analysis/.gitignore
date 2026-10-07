@@ -1,0 +1,5 @@
+data/raw/
+models/trained/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
